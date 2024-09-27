@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jwnicoll.github.io/sitemap.xml
+Sitemap: https://jakenicoll.github.io/sitemap.xml
