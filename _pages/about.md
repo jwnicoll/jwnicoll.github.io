@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-Hello! I am a second-year PhD student at the University of Chicago Harris School of Public Policy. I am interested in the interaction between education and identity, particularly for younger children. My current research refines and applies techniques from natural language processing and computer vision to quantify and assess the representation of different identities in children’s literature.
+Hello! I am a third-year PhD student at the University of Chicago Harris School of Public Policy. I am interested in the interaction between education and identity, particularly for younger children. My current research refines and applies techniques from natural language processing and computer vision to quantify and assess the representation of different identities in children’s literature.
 
 Prior to beginning my PhD, I worked as an RA for the [MiiE](https://voices.uchicago.edu/miielab/) Lab while completing a Master's degree in data science at Harris. This research experience set me on my current path. I also graduated with a degree in Mathematics and Physics from the University of Chicago.
 
