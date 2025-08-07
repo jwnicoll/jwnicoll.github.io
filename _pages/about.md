@@ -21,7 +21,7 @@ Hello! I am a third-year PhD student at the University of Chicago Harris School 
 
 Prior to beginning my PhD, I worked as an RA for the [MiiE](https://voices.uchicago.edu/miielab/) Lab while completing a Master's degree in data science at Harris. This research experience set me on my current path. I also graduated with a degree in Mathematics and Physics from the University of Chicago.
 
-Additionally, I am an IES fellow who engages with our community of education researchers at UChicago. I am currently a student organizer of our [Workshop series.](https://voices.uchicago.edu/coed/coe-workshop-series/)
+Additionally, I am an IES fellow who engages with multiple communities of education researchers. I am currently a student organizer of the University of Chicago Committee on Education's [Workshop series.](https://voices.uchicago.edu/coed/coe-workshop-series/) I am also a co-chair of the [AEFP Doctoral Student Community Group.](https://aefpweb.org/)
 
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

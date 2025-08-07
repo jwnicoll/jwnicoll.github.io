@@ -23,4 +23,27 @@ nav_order: 2
 
 
 
+### "How do we Teach Emotions?"
+
+##### with Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, and Teodora Tsasz
+
+#### <strong>Abstract </strong>
+
+<small><em> The ability to recognize, process, and manage our own emotions, as well as the emotions
+of others, is a core component of social emotional development, which has powerful long-term implications.
+Children learn about emotions in part through media such as textbooks and children's literature.
+In this study, we apply artificial intelligence tools from the fields of computer vision
+and natural language processing to analyze the representation of emotions in these media.
+We find that, while children are exposed to a range of different emotions in the text,
+the images predominantly depict happy and calm characters.
+This leaves many emotions without visual models.
+These patterns hold in different subcollections of our content and are consistent across both time and the identity of the characters expressing the emotion.
+Even within a single page, we see large discrepancies between the emotions shown in text from those shown in images.
+Frequently, when negatively-valenced emotions are displayed in the text,
+children are presented with images on the same page showing happy and calm characters.
+Using micro-level book purchase data, we investigate the extent to which this imbalance in the representation of emotions in images could be due to demand-side factors.
+While we do observe that consumers prefer books with exclusively happy and calm characters on their covers, the analysis does not suggest that the imbalance is exclusively a supply-side response to consumer demand. </em></small>
+<div class="Publications">
+
+
 </div>
