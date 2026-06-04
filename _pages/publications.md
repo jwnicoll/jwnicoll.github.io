@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Research
+title:
 description:
 nav: true
 nav_order: 2
@@ -11,6 +11,20 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
+
+## <u> Working Papers <\u> ##
+
+### "How do we Teach Emotions?"
+
+##### with Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, and Teodora Tsasz
+
+#### <strong>Abstract </strong>
+
+<small><em> Emotional intelligence is a key component of human capital, shaped in part by the educational materials children consume. These materials send messages about the emotional reactions that are and are not socially appropriate. In this study, we apply natural language processing and computer vision tools to examine the emotional representations conveyed in the text and images of influential educational materials: public school elementary textbooks and award winning children’s literature. Our analysis reveals a stark mismatch between the emotions children read about and the ones they see in images. We find that textual context exposes children to a diverse emotional landscape, including happiness, sadness, anger, and calm, all with relatively balanced frequency. In contrast, pictured characters overwhelmingly display happiness and calm, while ``negatively’’ valenced emotions rarely appear. This pattern persists across time, genre categories, and demographic subgroups in our corpus. Using individual-level book purchases and library inventory data, we provide evidence that the overrepresentation of happy and calm emotions in visual content reflect supply-side responses to consumer preferences. </em></small>
+
+<br>
+<br>
+## <u> Works in Progress <\u> ##
 
 ### "Influencing Identities: Creator Identity and Character Representation in Children’s Literature"
 
@@ -23,26 +37,31 @@ nav_order: 2
 <br>
 <br>
 
-### "How do we Teach Emotions?"
+### "Pigeonholed: Category Embeddings Measure Limited Intersectional Portrayals in Real and Imagined Worlds"
 
-##### with Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, and Teodora Tsasz
+##### with Anjali Adukia, Alex Eble, and Emileigh Harrison
 
 #### <strong>Abstract </strong>
 
-<small><em> The ability to recognize, process, and manage our own emotions, as well as the emotions
-of others, is a core component of social emotional development, which has powerful long-term implications.
-Children learn about emotions in part through media such as textbooks and children's literature.
-In this study, we apply artificial intelligence tools from the fields of computer vision
-and natural language processing to analyze the representation of emotions in these media.
-We find that, while children are exposed to a range of different emotions in the text,
-the images predominantly depict happy and calm characters.
-This leaves many emotions without visual models.
-These patterns hold in different subcollections of our content and are consistent across both time and the identity of the characters expressing the emotion.
-Even within a single page, we see large discrepancies between the emotions shown in text from those shown in images.
-Frequently, when negatively-valenced emotions are displayed in the text,
-children are presented with images on the same page showing happy and calm characters.
-Using micro-level book purchase data, we investigate the extent to which this imbalance in the representation of emotions in images could be due to demand-side factors.
-While we do observe that consumers prefer books with exclusively happy and calm characters on their covers, the analysis does not suggest that the imbalance is exclusively a supply-side response to consumer demand. </em></small>
+<small><em> Media portrayals shape how people see themselves and others, particularly during child-
+hood when stereotypes are first learned. This is especially true when an identity is
+underrepresented, making each portrayal more influential in shaping perceptions. How-
+ever, existing applications of natural language processing (NLP) struggle to capture how
+underrepresented and intersectional identities are portrayed because such identities are
+mentioned infrequently or cannot be inferred from names alone. We introduce a new
+application of word embeddings that aggregates contexts across identifiable individu-
+als to estimate a single “category” embedding for entire identity categories (e.g., Black
+heterosexual females). This allows us to measure the portrayal of underrepresented
+identities previously beyond the reach of traditional word embedding applications. Ap-
+plying this approach to two influential corpora – 1,130 award-winning children’s books
+(which typically contain fiction or “imagined” worlds) and 250,000 articles from The
+New York Times and The Wall Street Journal (which describe “real” world news and
+events) – we show that White heterosexual males are depicted across the broadest range
+of societal roles, while historically marginalized identities are consistently pigeonholed
+into narrower domains such as sports, struggle, or the performing arts. These findings
+highlight how media consumed by both children and adults perpetuate dated patterns
+of representation, and they demonstrate the value of category embeddings for advancing
+the study of intersectionality across cultures, contexts, and time. </em></small>
 
 <div class="Publications">
 
