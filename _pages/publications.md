@@ -12,7 +12,7 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 
-## <u> Working Papers <\u> ##
+## <u> Working Papers <\u>
 
 ### "How do we Teach Emotions?"
 
@@ -24,7 +24,7 @@ nav_order: 2
 
 <br>
 <br>
-## <u> Works in Progress <\u> ##
+## <u> Works in Progress <\u>
 
 ### "Influencing Identities: Creator Identity and Character Representation in Children’s Literature"
 
