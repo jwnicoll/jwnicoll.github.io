@@ -12,9 +12,9 @@ nav_order: 2
 <!-- Bibsearch Feature -->
 
 
-## <u> Working Papers <\u>
+## <div style="text-align: center"><u> Working Papers </u></div>
 
-### "How do we Teach Emotions?"
+### "How do we Teach Emotions?" &nbsp; <small><a href="/assets/pdf/MiiE_Emotions_Paper_06-04.pdf" download>Link to draft</a></small>
 
 ##### with Anjali Adukia, Matthew Bonci, Paula Dastres Gallardo, Emileigh Harrison, and Teodora Tsasz
 
@@ -24,7 +24,7 @@ nav_order: 2
 
 <br>
 <br>
-## <u> Works in Progress <\u>
+## <div style="text-align: center"><u> Works in Progress </u></div>
 
 ### "Influencing Identities: Creator Identity and Character Representation in Children’s Literature"
 
